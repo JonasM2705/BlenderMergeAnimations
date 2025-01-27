@@ -1,4 +1,4 @@
-Este addon para Blender permite copiar todas las animaciones de un Armature fuente (Armature1) y pegarlas en el frame actual de otro Armature objetivo (Armature0). Es ideal para combinar animaciones entre rigs dentro de una misma escena.
+Este addon para Blender permite copiar todas las animaciones de un Armature fuente (Armature1) y pegarlas en el frame actual de otro Armature objetivo (Armature). Es ideal para combinar animaciones entre rigs dentro de una misma escena.
 
 Uso
 
