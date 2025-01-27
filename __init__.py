@@ -67,7 +67,7 @@ class CombineAnimationsPanel(bpy.types.Panel):
     bl_idname = "ANIMATION_PT_combine_animations"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = "Animations"
+    bl_category = "Merge Animations"
 
     def draw(self, context):
         layout = self.layout
