@@ -1,5 +1,8 @@
 Este addon para Blender permite copiar todas las animaciones de un Armature fuente (Armature1) y pegarlas en el frame actual de otro Armature objetivo (Armature). Es ideal para combinar animaciones entre rigs dentro de una misma escena.
 
+
+Método 1
+
 Uso
 
 Añade al menos dos Armatures a tu escena:
@@ -18,3 +21,9 @@ Haz clic en el botón Combinar Animaciones.
 Las animaciones se copiarán y ajustarán al frame actual del Armature objetivo.
 
 Requisito: Blender 3.3.0 o superior
+
+Método 2:
+
+en el método dos ya solo neceitas un armature (el que va a recibir animaciones), 
+selecciona dicho armature y entra al panel del mod a la derecha y ubica tu arichivo en una ruta (.fbx) (el archivo fbx debe contar un rig y debe tener los mismos nombres de los huesos que tu rig) 
+apreta "combinar animaciones" en el keyframe donde quieres que inicie esta animación y la recibirá (se copiara). 
